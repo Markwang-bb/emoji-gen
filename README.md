@@ -58,6 +58,12 @@ emoji-gen -a
 
 ```
 
+### 预览 
+
+<img width="1136" alt="截屏2024-08-29 23 56 25" src="https://github.com/user-attachments/assets/b3381a6a-8446-4c33-a6cd-505d9ef944e3">
+
+
+
 
 ## 📄 许可证  
 
