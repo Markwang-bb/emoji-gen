@@ -52,6 +52,11 @@ Options:
 - `-r, --random`: Generate random emoji
 - `-a, --all`: Show all available emojis
 
+### Preview 
+
+<img width="1136" alt="截屏2024-08-29 23 56 25" src="https://github.com/user-attachments/assets/dee1a9a5-eb77-434d-a4c1-2beab87ddcdd">
+
+
 ### 🌟 Examples
 
 ```bash
@@ -63,6 +68,8 @@ emoji-gen -r -t Random emoji
 emoji-gen -a
 
 ```
+
+
 
 
 ## 🎨 支持的表情 / Supported Emojis: 
