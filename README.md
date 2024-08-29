@@ -61,7 +61,7 @@ emoji-gen -a
 
 ## 📄 许可证  
 
-Copyright © 2024 [jackW](https://github.com/your-username).<br />
+Copyright © 2024 [jackW](https://github.com/Markwang-bb/emoji-gen).<br />
 This project is [MIT](https://github.com/your-username/emoji-gen/blob/main/LICENSE) licensed.
 
 ---
